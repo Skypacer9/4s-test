@@ -1,0 +1,1 @@
+Kotarbinski, Tadeusz, 1965, _Praxiology: An Introduction to the Sciences of Efficient Action_, Oxford: Pergamon Press.
