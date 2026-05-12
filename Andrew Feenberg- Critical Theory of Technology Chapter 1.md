@@ -1,4 +1,4 @@
-
+#value-laden-technology #Marx
 Preface:
 * Do human beings have to submit to the harsh logic of machinery, or can technology be redesigned to better serve its creators
 * This is not primarily a technical question but concerns a fundamental issue in social philosophy - the neutrality of technology and the related theory of technological determinism
