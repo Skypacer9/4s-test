@@ -1,0 +1,1 @@
+Pitt, Joseph C., 1999, _Thinking About Technology: Foundations of the Philosophy of Technology_, New York: Seven Bridges Press.

@@ -1,0 +1,2 @@
+control vs ordering? what is silenced? when is structure supportive instead of restrictive or suffocating?
+when did class become a fixture of society? How do they distort incentives and especially how do they corrupt every tier just through their existence (if the entire apparatus serves as an extraction means instead of benefitting every tier through participation)
