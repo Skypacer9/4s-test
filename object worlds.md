@@ -1,0 +1,1 @@
+- Bucciarelli, Louis L., 1994, _Designing Engineers_, Cambridge, MA: MIT Press.

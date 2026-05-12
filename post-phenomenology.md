@@ -1,0 +1,2 @@
+ Ihde, Don, and Evan Selinger, 2003, _Chasing Technoscience: Matrix for Materiality_, Bloomington: Indiana University Press.
+- Illies, Christian, and Anthonie Meijers, 2009, “Artefacts Without Agency”, _The Monist_, 92(3): 420–440. doi:10.5840/monist200992324

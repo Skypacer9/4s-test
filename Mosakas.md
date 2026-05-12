@@ -1,0 +1,1 @@
+Mosakas, Kestutis, 2021, “On the Moral Status of Social Robots: Considering the Consciousness Criterion”, _AI & Society_ 36(2): 429–443. doi: 10.1007/s00146-020-01002-1.

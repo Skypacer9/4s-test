@@ -1,0 +1,1 @@
+- Pettit, Philip, 2012, _On the People’s Terms: A Republican Theory and Model of Democracy_, The Seeley lectures, Cambridge and New York: Cambridge University Press.

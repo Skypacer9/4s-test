@@ -1,0 +1,1 @@
+- Kroes, Peter, Maarten Franssen and Louis Bucciarelli, 2009, “Rationality in Design”, in Meijers (ed.) 2009: 565–600. doi:10.1016/B978-0-444-51667-1.50025-2

@@ -1,0 +1,1 @@
+- Kroes, Peter, and Peter-Paul Verbeek (eds), 2014, _The Moral Status of Technical Artefacts_, Dordrecht: Springer. doi:10.1007/978-94-007-7914-3

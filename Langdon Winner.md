@@ -1,0 +1,3 @@
+Winner, Langdon, 1977, _Autonomous Technology: Technics-out-of-Control as a Theme in Political Thought_, Cambridge, MA and London: MIT Press.
+- –––, 1980, “Do Artifacts Have Politics?” _Daedalus_, 109(1): 121–136.
+- –––, 1983, “Techné and Politeia: The Technical Constitution of Society”, in _Philosophy and Technology_, edited by Paul T. Durbin and Friedrich Rapp, Dordrecht/Boston/Lancaster: D. Reidel, pp. 97–111. doi:10.1007/978-94-009-7124-0_7

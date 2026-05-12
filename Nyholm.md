@@ -1,0 +1,1 @@
+Maheshwari, Kritika, and Sven Nyholm, 2022, “Dominating Risk Impositions”, _The Journal of Ethics_. doi: 10.1007/s10892-022-09407-4.
