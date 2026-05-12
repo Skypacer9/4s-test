@@ -1,3 +1,5 @@
+#epistemology #a-priori moral-philosophy
+
 * A priori knowledge is in an important sense independent of experience. A posteriori knowledge depends on experiences such as empirical observations and introspection of one's conscious states. If a proposition can be known a priori, we can somehow see it is true just by thinking and reasoning about it. such as empirical observations
 
 * Supposed paradigmatic examples of moral propositions:
