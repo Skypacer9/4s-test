@@ -1,0 +1,1 @@
+Millikan, Ruth Garrett, 1999, “Wings, Spoons, Pills, and Quills: A Pluralist Theory of Function”, _The Journal of Philosophy_, 96(4): 191–206. doi:10.5840/jphil199996428
