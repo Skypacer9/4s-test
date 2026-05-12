@@ -1,7 +1,7 @@
 by robert graham
 from Anarchism: A Documentary History of Libertarian Ideas 
 
-#anarchism #free-association
+#anarchism #free-association #democratic #utopian #self-management #Proudhon #Marx #Bakunin
 
 -> People lived without states for tens of thousands of years, and therefore in a kind of anarchy before the first states began to emerge around 6000 years ago
 * Far from being impossible, as Thomas Hobbes and many other political commentators have argued, anarchy was a very successful form of human social organization which existed for most of the time of human existence on this planet - because societies without states were preliterate, it is impossible to say to what degree this may have been a conscious choice - itis doubtful that people living in stateless societies ever identified themselves in opposition to the state, as anarchists of some sort - given there were no states in existence for most of the time that people lived within these stateless societies 
