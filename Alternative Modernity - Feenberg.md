@@ -1,4 +1,5 @@
-
+#constructivism #Frankfurt-School
+#value-laden-technology
 * Inquiry proceeds through case studies - each section contains one essay on a philosopher and another on a concrete literary, cultural, technical phenomenon that illustrates the problems raised in philosophical discussion
 * The inextricable intermingling of scientific-technical rationality and culture
 * Argue from constructivist premise to the possibility of reshaping the technical world around us 
