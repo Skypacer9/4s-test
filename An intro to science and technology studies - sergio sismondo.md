@@ -1,0 +1,4 @@
+* Case studies are the bread and butter of STS - almost all insights in the field grow out of them - learning central ideas t hrough this
+* Empirical examples used in this book point to a number of canonical and useful studies
+* Science and Technology Studies was a philosophically radical project of understanding science and technology as discursive, social, material activities. Science, Technology, and Society was a project of understanding social issues linked to developments in science and technology - how these could be harnessed to democratic and egalitarian ideals  = the two STSs have blended together 
+* The legitimate place of expertise about 

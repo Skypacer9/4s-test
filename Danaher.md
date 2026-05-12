@@ -1,0 +1,2 @@
+ Danaher, John, 2016, “Robots, Law and the Retribution Gap”, _Ethics and Information Technology_ 18(4): 299–309. doi: 10.1007/s10676-016-9403-3.
+- –––, 2020, “Welcoming Robots into the Moral Circle: A Defence of Ethical Behaviourism”, _Science and Engineering Ethics_ 26(4): 2023–2049. doi: 10.1007/s11948-019-00119-x.

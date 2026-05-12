@@ -1,0 +1,2 @@
+Doorn, Neelke, 2010, “A Rawlsian Approach to Distribute Responsibilities in Networks”, _Science and Engineering Ethics_, 16(2): 221–249. doi:10.1007/s11948-009-9155-0
+- –––, 2012, “Responsibility Ascriptions in Technology Development and Engineering: Three Perspectives”, _Science and Engineering Ethics_, 18(1): 69–90. doi:10.1007/s11948-009-9189-3
