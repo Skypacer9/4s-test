@@ -22,5 +22,6 @@ Article set up: Review early theoretical research and empirical experience in th
 
 ^ so in our case are we developing a field? or more of a philosophy, or a case for changing some sets of designs/phenomena?
 
+Section 2: unravels the mechanics of decentralized justice systems, spotlighting Kleros as a representative case study
 
-
+Section 3: Navigates the technical challenges in designing these systems so that they are robust and resistant to effects such as bribery and collusion
