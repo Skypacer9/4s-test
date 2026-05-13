@@ -10,3 +10,5 @@ The paper provides a review of the history of decentralized justice, addresses a
 
 Intro:
 -> brief contextualisation of economic circumstances and how that's been changed by economics
+-> introduces the focus on disputes - those taking place in online communities involving anonymous/pseudonymous agents hailing from different legal jurisdictions
+
