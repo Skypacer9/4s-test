@@ -41,3 +41,6 @@ THeir 'case study' - Kleros - a reflection of the practical realities of the dec
 As it is the most active platform, the insights derived from this examination will be valuable for the broader field as they provide a basis for understanding and anticipating the evolution of other emerging decentralized justice platforms -> and can generate perspectives on development and future trajectories of these defunct decentralized platforms (Aragon and Jur)
 
 2. Smart contracts can't resolve all disputes - they cannot evaluate whether the delivered video complies with agreed aesthetic and functional specifications - contracts are considered incomplete in that they cannot foresee all of the potential for disagreement
+
+
+Figure 1 contains a summary of how the dispute resolution flow works in the Kleros Protocol. Suppose Alice and Bob use a Kleros-connected smart contract. Alice sends cryptocurrency to the contract, held in escrow until Bob fulfills the contract. If a dispute arises, funds remain locked while crowdsourced jurors resolve it. Any Ethereum user can be a juror by depositing Pinakion (PNK) tokens into Kleros courts, which is essentially a platform that serves as a meeting point for jurors and disputing parties, and allows the creation of subcourts wherein disputes of a similar nature may be grouped together (Ober et al., 2019).
