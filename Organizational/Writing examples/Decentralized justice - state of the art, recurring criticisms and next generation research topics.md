@@ -8,5 +8,5 @@ The paper provides a review of the history of decentralized justice, addresses a
 
 ==^ so this paper only does a part of what our 4s abstract proposes lol (it's more a review paper whereas our paper suggests it will undertake 1. novel case studies 2.even start creating design principles)==
 
--> 
+-> New breeds of disputes - anonymous/pseudonymous agents hailing from different legal jurisdictions
 
