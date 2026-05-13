@@ -40,4 +40,4 @@ THeir 'case study' - Kleros - a reflection of the practical realities of the dec
 
 As it is the most active platform, the insights derived from this examination will be valuable for the broader field as they provide a basis for understanding and anticipating the evolution of other emerging decentralized justice platforms -> and can generate perspectives on development and future trajectories of these defunct decentralized platforms (Aragon and Jur)
 
-2. Smart contracts can't resolve all disputes - they cannot evaluate whether the delivered video complies with agreed aesthetic and functional spec
+2. Smart contracts can't resolve all disputes - they cannot evaluate whether the delivered video complies with agreed aesthetic and functional specifications - contracts are considered incomplete in that they cannot foresee all of the potential for disagreement
