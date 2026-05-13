@@ -10,5 +10,6 @@ The paper provides a review of the history of decentralized justice, addresses a
 
 Intro:
 -> brief contextualisation of economic circumstances and how that's been changed by economics
--> introduces the focus on disputes - those taking place in online communities involving anonymous/pseudonymous agents hailing from different legal jurisdictions
-
+-> introduces the focus on disputes - those taking place in online communities involving anonymous/pseudonymous agents hailing from different legal jurisdictions (there's kind of a business case here)
+-> showing how the old framework and the context in which it was derived (the multi million dollar disputes involving conglomerates and governments for which the framework of the New York Convention was established in 1958)
+	the New York Convention was a 1958 international treaty that facilitates the enforcement of arbitration agreements and arbitral awards across borders - core purpose is to ensure that private dispute resolution through arbitration - rather than litigation in national courts - is respected globally - requires courts of signatory countries t
