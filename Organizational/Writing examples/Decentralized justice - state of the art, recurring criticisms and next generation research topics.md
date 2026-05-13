@@ -25,3 +25,7 @@ Article set up: Review early theoretical research and empirical experience in th
 Section 2: unravels the mechanics of decentralized justice systems, spotlighting Kleros as a representative case study
 
 Section 3: Navigates the technical challenges in designing these systems so that they are robust and resistant to effects such as bribery and collusion
+
+Section 4: Delves into the market challenges, identifying use cases where these systems can solve business problems efficiently and fairly
+
+Section 5: Legal and public policy challenges, examining issues from jurisdi
