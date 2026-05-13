@@ -18,3 +18,9 @@ Intro:
 	 Traditional litigatoin; resolving disputes through the court system (judges, lawyers, trials) - Russell and Susskind proposed reforms to make this process faster or cheaper, often by using technology
 	 E-commerce/ADR - Online shopping platforms and alternative dispute resolution have also generate proposals - it exists to avoid court but the focus is on using ML to automate tasks like predicting case outcomes, sorting evidence, recommending settlements
 
+Article set up: Review early theoretical research and empirical experience in the field of decentralized justice and will study applicable challenges, objections, recurring criticisms - it will also propose new avenues to explore to further develop this nascent field
+
+^ so in our case are we developing a field? or more of a philosophy, or a case for changing some sets of designs/phenomena?
+
+
+
