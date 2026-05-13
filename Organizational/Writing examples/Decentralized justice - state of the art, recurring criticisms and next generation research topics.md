@@ -28,4 +28,8 @@ Section 3: Navigates the technical challenges in designing these systems so that
 
 Section 4: Delves into the market challenges, identifying use cases where these systems can solve business problems efficiently and fairly
 
-Section 5: Legal and public policy challenges, examining issues from jurisdi
+Section 5: Legal and public policy challenges, examining issues from jurisdiction to enforcement of awards
+
+Section  6: Grapples with moral challenges, exploring the friction between these systems and traditional understandings of fairness
+
+Section 7: concludes the paper, reflecting on the potential decentralized justice system amidst the significant challenges they must surmount and suggesting potential research for further research in the fields of social science like law, economics, social science theory
