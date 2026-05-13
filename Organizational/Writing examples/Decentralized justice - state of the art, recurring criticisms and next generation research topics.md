@@ -33,3 +33,9 @@ Section 5: Legal and public policy challenges, examining issues from jurisdictio
 Section  6: Grapples with moral challenges, exploring the friction between these systems and traditional understandings of fairness
 
 Section 7: concludes the paper, reflecting on the potential decentralized justice system amidst the significant challenges they must surmount and suggesting potential research for further research in the fields of social science like law, economics, social science theory
+
+THeir 'case study' - Kleros - a reflection of the practical realities of the decentralized justice system - it has a completed caseload exceeding 1500 disputes while other protocols have not been able to pull off anything close.
+
+-> Justification of this choice of case study
+
+As it is the most active platform, the insights derived from this examination will be valuable for the broader field as they provide a basis for understanding and anticipating the evolution of other emerging decentralized justice platforms
