@@ -38,4 +38,6 @@ THeir 'case study' - Kleros - a reflection of the practical realities of the dec
 
 -> Justification of this choice of case study
 
-As it is the most active platform, the insights derived from this examination will be valuable for the broader field as they provide a basis for understanding and anticipating the evolution of other emerging decentralized justice platforms
+As it is the most active platform, the insights derived from this examination will be valuable for the broader field as they provide a basis for understanding and anticipating the evolution of other emerging decentralized justice platforms -> and can generate perspectives on development and future trajectories of these defunct decentralized platforms (Aragon and Jur)
+
+2. Smart contracts can't resolve all disputes - they cannot evaluate whether the delivered video complies with agreed aesthetic and functional spec
