@@ -103,6 +103,8 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 3.2 Incentivizing participants
 ^ choice of payoff structure can draw ideas from the field of peer prediction - a field that considers how payoff functions that depend on how a given participant's vote compares to that of other participants can be used to incentivize participants to exert effort in performing tasks 
 -> the choice of voting system can draw ideas from the field of social choice theory - a field that has studied the degree to which voting systems can be designed that satisfy various desirable properties
+-> payoff functions should disincentivize lazy strategies like voting randomly or voting in a way that does not consider information from individual cases 
+^ not necessarily easy to directly apply existing systems from the peer prediction and social choice theory literature
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
