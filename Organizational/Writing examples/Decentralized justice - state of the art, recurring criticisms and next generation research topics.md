@@ -54,3 +54,10 @@ a) DAO structure
 b) mechanism design based on cryptoeconomics
 c) generating a perception of fairness 
 
+2.1 DAO structure
+-> being built as a DAO architecture ensures that the dispute resolution process will be conducted exactly as programmed 
+Governance rights are directly in the hands of the community and decision making is member led like a cooperative or direct democracy government
+Evidence production, jury selection, other elements of the procedure are tamper proof ->system can provide credible neutrality 
+(easier enforcement - but when do ambiguities and flexibility become necessary)
+
+2.2 Cryptoeconomics based mechanism design
