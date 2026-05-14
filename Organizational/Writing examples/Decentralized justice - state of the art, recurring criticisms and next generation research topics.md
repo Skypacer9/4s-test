@@ -112,7 +112,7 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 
 3.3 Appropriately managing information
 
-* Managing 
+* Managing the flow of information in a decentralized justice system 
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
