@@ -98,6 +98,10 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 * ^ reference to a type of attack called the p+epsilon attack which targets Schelling Point based systems - the attacker offers a bribe to participants if they vote for a malicious outcome contingent on said malicious outcome losing the vote- and design and parameter choices that have an impact on the viability of such p+epsilon attacks
 * Limitations on identity systems in blockchain - there is generally no reliable way to ensure that all jurors in a decentralized justice platform are distinct, identifiable individuals
 	* lots of platforms involving voting accept it is possible for individuals to obtain multiple votes but seek to make it costly to obtain additional votes - creation of a blockchain native identity sytem -> individuals should only be allowed to register on a list once, and duplicate registrations can be challenged and judged by a subjective oracle
+	* Soulbound Tokens - non trasnferable tokens that can be used to represent "social" attributes of users -> individuals can submit themselves to lists reserved for participants that have some qualification or certain type of expertise
+* ^ Future directions for research noted - how resistance varies over longer time scales or when considering juror pools of varying backgrounds and sizes
+3.2 Incentivizing participants
+
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
