@@ -96,7 +96,7 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 	* Corruption of voters include malicious behaviour such as paying bribes
 * ^ reference to economic literature considering the dynamics of bribing in various microeconomic models
 * ^ reference to a type of attack called the p+epsilon attack which targets Schelling Point based systems - the attacker offers a bribe to participants if they vote for a malicious outcome contingent on said malicious outcome losing the vote- and design and parameter choices that have an impact on the viability of such p+epsilon attacks
-	
+* Limitations on identity systems in blockchain - there is generally no reliable way to ensure that all jurors in a decentralized justice platform are distinct, identifiable individuals
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
