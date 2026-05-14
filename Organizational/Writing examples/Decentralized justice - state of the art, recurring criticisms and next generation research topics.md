@@ -61,3 +61,4 @@ Evidence production, jury selection, other elements of the procedure are tamper 
 (easier enforcement - but when do ambiguities and flexibility become necessary)
 
 2.2 Cryptoeconomics based mechanism design
+
