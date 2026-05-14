@@ -107,6 +107,8 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 ^ not necessarily easy to directly apply existing systems from the peer prediction and social choice theory literature
 * the bribes that an attacker will need to pay rational participants to influence their votes will depend on the costs that the payoff structure imposes on participants who accept bribes, while how many votes need to be  corrupted in order for the attacker to change the outcome depends on how the votes are aggregated -> the resistance of a decentralized justice system depends on interactions between payoff and voting systems
 	* Resistance to attacks that obtain disproportionate voting weight is attained to the degree that it is expensive to obtain enough votes to alter the results of a case - many peer prediction models have requirements that voters do not collude in order to function properly
+* ^ another research approach is brought up - adapting results in the existing peer prediction literature, relaxing assumptions of participant behaviour
+* Dispute situations often require neutral decision makers to decide between several nuanced possible outcomes in non-binary decisios
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
