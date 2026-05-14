@@ -76,7 +76,8 @@ Users that behave honestly and ethically will on average be rewarded by the payo
 * In order to be considered legitimate, any court system must produce decisions that can be considered 'fair' by disputants and outside observers 
 ^ here the review just directs the reader to more extensive reviews of 'fairness' if it is of interest
 	^ notes that Kleros is 'fair' in accordance with formal models of defining fairness such as Daniel Dimov's model of procedural fairness
+	^ the review paper refers to another review paper on four types of challenges to gain adoption - technical, market, legal, moral
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
-(what if fairness is not what )
+(what if fairness is not what any participants desire)
