@@ -110,3 +110,4 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 (but do humans just run on this? do they need trust to be or stay motivated?)
 (what if fairness is not what any participants desire)
 (identity systems?)
+(what quantitative language can we use to make sense of the polycrisis? to integrate broad swathes of information at a high resolution?)
