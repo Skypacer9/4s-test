@@ -110,6 +110,10 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 * ^ another research approach is brought up - adapting results in the existing peer prediction literature, relaxing assumptions of participant behaviour
 * Dispute situations often require neutral decision makers to decide between several nuanced possible outcomes in non-binary decisions - research in social choice theory has shown that under minimal hypotheses, voting systems that decide between three or more outcomes lead to pathological phenomena in some rare circumstances
 
+3.3 Appropriately managing information
+
+
+
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
 (what if fairness is not what any participants desire)
