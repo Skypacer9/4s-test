@@ -105,7 +105,8 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 -> the choice of voting system can draw ideas from the field of social choice theory - a field that has studied the degree to which voting systems can be designed that satisfy various desirable properties
 -> payoff functions should disincentivize lazy strategies like voting randomly or voting in a way that does not consider information from individual cases 
 ^ not necessarily easy to directly apply existing systems from the peer prediction and social choice theory literature
-* the bribes that an attacker will need to pay rational participants to influence their votes will depend on the costs that the payoff structure imposes on participants who accept bribes, while how many votes ne
+* the bribes that an attacker will need to pay rational participants to influence their votes will depend on the costs that the payoff structure imposes on participants who accept bribes, while how many votes need to be  corrupted in order for the attacker to change the outcome depends on how the votes are aggregated -> the resistance of a decentralized justice system depends on interactions between payoff and voting systems
+	* Resistance to attacks that obtain disproportionate voting weight is attained to the degree that it is expensive to obtain enough votes to alter the results of a case - many peer prediction models have requirements that voters do not collude in order to function properly
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
