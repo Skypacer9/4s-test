@@ -85,7 +85,7 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 
 3. Technical challenges
 
-* Several blockchain oracles have include mechanisms based on inc
+* Several blockchain oracles have include mechanisms based on incentivizing participants to generate a consensus outcome favoured by the majority
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
