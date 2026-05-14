@@ -120,7 +120,7 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 ^ proposla of more concrete mechanisms
 
 4. Market challenges
-
+A number of challenges arise regarding use cases, business models, and its future evolution
 
 
 
