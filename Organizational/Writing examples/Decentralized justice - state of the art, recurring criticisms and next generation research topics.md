@@ -47,3 +47,8 @@ Figure 1 contains a summary of how the dispute resolution flow works in the Kler
 
 Jurors are randomly chosen, with selection likelihood proportional to staked PNK (but how do they get PNK). No demonstrated expertise or identity proof is required. Jurors review evidence and vote for the party they believe is right, incentivized to align with the majority
 	-> what are the downsides of incentivizing convergence (perhaps prematurely) or  the Schelling point approach
+Carrot and stick approach is used - if the vote is unanimous, then all jurors receive arbitration fees, if it is a split decision, dissenting jurors are not paid arbitration fees and lose their staked PNK, which is given to majority jurors along with arbitration fees
+A key premise in decentralized justice is that jurors who vote consistently with the majority experience on average a financial gain
+Decentralized justice as a dispute resolution system possessing three fundamental characteristics
+a) DAO structure
+b) mechan
