@@ -91,7 +91,10 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 * Kleros goes beyond market-oriented data -> decentralized justice systems tend to present a generalized infrastructure that accommodates a broader spectrum of subject matter and tends to facilitate coordinated decisions over more nuanced questions
 * The infrastructure has to be secure and attack resistant without requiring central intervention
 	* ^ back to how do certain technologies privilege certain political modes?
-	* No final decision maker or trusted party capable of imposing out of game penalties on abusive participants or screening participants who have a vested interest in the cases under consideration
+	* No final decision maker or trusted party capable of imposing out of game penalties on abusive participants or screening participants who have a vested interest in the cases under consideration - defenses to attack need to be built into the design of the system - broad categories of attack include the corruption of voters and obtaining of disproportionate voting weight by a subset of voters
+	^ okay so voting design is included here
+	* Corruption of voters include malicious behaviour such as paying b
+	
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
