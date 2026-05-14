@@ -45,3 +45,5 @@ As it is the most active platform, the insights derived from this examination wi
 
 Figure 1 contains a summary of how the dispute resolution flow works in the Kleros Protocol. Suppose Alice and Bob use a Kleros-connected smart contract. Alice sends cryptocurrency to the contract, held in escrow until Bob fulfills the contract. If a dispute arises, funds remain locked while crowdsourced jurors resolve it. Any Ethereum user can be a juror by depositing Pinakion (PNK) tokens into Kleros courts, which is essentially a platform that serves as a meeting point for jurors and disputing parties, and allows the creation of subcourts wherein disputes of a similar nature may be grouped together (Ober et al., 2019).
 
+Jurors are randomly chosen, with selection likelihood proportional to staked PNK (but how do they get PNK). No demonstrated expertise or identity proof is required. Jurors review evidence and vote for the party they believe is right, incentivized to align with the majority
+	-> what are the downsides of incentivizing convergence (perhaps prematurely) or  the Schelling point approach
