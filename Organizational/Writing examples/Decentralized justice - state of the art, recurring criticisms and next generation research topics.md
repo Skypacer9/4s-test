@@ -64,5 +64,6 @@ Evidence production, jury selection, other elements of the procedure are tamper 
 
 * A paradigm that studies and builds decentralized systems running on incentive mechanisms
 * Unlike traditional dispute resolution systems, decentralized justice does not rely on expectations of moral behaviour of agents but on strict economic incentives
+* Agents in a decentralized justice system vote on outcomes and depending on how they vote a collective outcome is determined and the agents are provided with financial rewards or penalties - 
 
 (is this where economic sociology should come in tbh)
