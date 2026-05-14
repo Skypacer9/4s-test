@@ -101,7 +101,7 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 	* Soulbound Tokens - non trasnferable tokens that can be used to represent "social" attributes of users -> individuals can submit themselves to lists reserved for participants that have some qualification or certain type of expertise
 * ^ Future directions for research noted - how resistance varies over longer time scales or when considering juror pools of varying backgrounds and sizes
 3.2 Incentivizing participants
-
+^ choice of payoff structure can draw ideas from the field of peer prediction - a field that considers how payoff functions that depend on how a given participant's vote compares to that of other participants can be used to incentivize
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
