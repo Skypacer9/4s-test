@@ -64,6 +64,8 @@ Evidence production, jury selection, other elements of the procedure are tamper 
 
 * A paradigm that studies and builds decentralized systems running on incentive mechanisms
 * Unlike traditional dispute resolution systems, decentralized justice does not rely on expectations of moral behaviour of agents but on strict economic incentives
-* Agents in a decentralized justice system vote on outcomes and depending on how they vote a collective outcome is determined and the agents are provided with financial rewards or penalties - 
+* Agents in a decentralized justice system vote on outcomes and depending on how they vote a collective outcome is determined and the agents are provided with financial rewards or penalties - voting - any mechanism by which agents provide information on the outcomes of the dispute that they find more or less appropriate - voting can take a number of forms - agents could choose between two possible outcomes, providing a ranking of a finite list of possible outcomes, or they could score each of several outcomes independently on a 1-10 scale
+- Voting system - a function that takes as inputs the agents' votes and outputs a collective decision
+- Payoff system - a function that takes as inputs the agents' votes and outputs an amount that each agent is rewarded or penalized
 
 (is this where economic sociology should come in tbh)
