@@ -83,6 +83,10 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 	(base on the level of tangible development achieved within the decentralized ecosystem)
 	(although there are many proposed projects and hypothesized solutions, few of them have actually materialized in a successful mechanism with significant adoption)
 
+3. Technical challenges
+
+
+
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
 (what if fairness is not what any participants desire)
