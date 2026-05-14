@@ -69,6 +69,7 @@ Evidence production, jury selection, other elements of the procedure are tamper 
 - Payoff system - a function that takes as inputs the agents' votes and outputs an amount that each agent is rewarded or penalized
 
 -> agents are not expected to act honestly (be neutral in their decisions) because of moral reasons (the case in traditional dispute resolution systems) but because these elements are chosen so that it is in their rational interest of agents to act in order to optimize economic gain
--> Schelling point - within the conte
+-> Schelling point - within the context of a dispute resolution mechanism that relies on game theoretic incentives - agents are likely to produce an outcome that is most commonly labeled as 'fair' while seeking their private economic interests based on their prediction of other agents' behaviour without any assumptions of ethical propriety on the part of any agent
+Users that behave honestly and ethically will on average be rewarde
 
 (is this where economic sociology should come in tbh)
