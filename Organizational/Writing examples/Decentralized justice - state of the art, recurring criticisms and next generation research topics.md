@@ -62,3 +62,7 @@ Evidence production, jury selection, other elements of the procedure are tamper 
 
 2.2 Cryptoeconomics based mechanism design
 
+* A paradigm that studies and builds decentralized systems running on incentive mechanisms
+* Unlike traditional dispute resolution systems, decentralized justice does not rely on expectations of moral behaviour of agents but on strict economic incentives
+
+(is this where economic sociology should come in tbh)
