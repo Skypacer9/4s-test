@@ -68,4 +68,7 @@ Evidence production, jury selection, other elements of the procedure are tamper 
 - Voting system - a function that takes as inputs the agents' votes and outputs a collective decision
 - Payoff system - a function that takes as inputs the agents' votes and outputs an amount that each agent is rewarded or penalized
 
+-> agents are not expected to act honestly (be neutral in their decisions) because of moral reasons (the case in traditional dispute resolution systems) but because these elements are chosen so that it is in their rational interest of agents to act in order to optimize economic gain
+-> Schelling point - within the conte
+
 (is this where economic sociology should come in tbh)
