@@ -78,6 +78,8 @@ Users that behave honestly and ethically will on average be rewarded by the payo
 	^ notes that Kleros is 'fair' in accordance with formal models of defining fairness such as Daniel Dimov's model of procedural fairness
 	^ the review paper refers to another review paper on four types of challenges to gain adoption - technical, market, legal, moral
 
+Then the paper conducts a thorough review of the literature addressing the different challenges posed to the growth of de
+
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
 (what if fairness is not what any participants desire)
