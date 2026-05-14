@@ -122,6 +122,11 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 4. Market challenges
 A number of challenges arise regarding use cases, business models, and its future evolution
 
+4.1. Use case taxonomy
+* A lot of applications for decentralized justice including the field of intellectual property disputes, translation freelancing, production traceability, leasing contracts, online marketplaces, crowdfunded financing, online gaming, real world asset tokenization, decentralized finance compliance, social media moderation, insurance, DAO governance, prediction markets, metaverse and others
+* I
+
+
 
 
 (is this where economic sociology should come in tbh)
