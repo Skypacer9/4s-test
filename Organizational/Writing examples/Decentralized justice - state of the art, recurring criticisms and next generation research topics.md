@@ -93,7 +93,9 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 	* ^ back to how do certain technologies privilege certain political modes?
 	* No final decision maker or trusted party capable of imposing out of game penalties on abusive participants or screening participants who have a vested interest in the cases under consideration - defenses to attack need to be built into the design of the system - broad categories of attack include the corruption of voters and obtaining of disproportionate voting weight by a subset of voters
 	^ okay so voting design is included here
-	* Corruption of voters include malicious behaviour such as paying b
+	* Corruption of voters include malicious behaviour such as paying bribes
+* ^ reference to economic literature considering the dynamics of bribing in various microeconomic models
+* ^ reference to a type of attack called the p+epsilon attack which targets Schelling Point based systems - the attacker offers a bribe to participants if they vote for a malicious outcome contingent on said malicious outcome losing the vote- and design and parameter choices that have an impact on the viability of such p+epsilon attacks
 	
 
 (is this where economic sociology should come in tbh)
