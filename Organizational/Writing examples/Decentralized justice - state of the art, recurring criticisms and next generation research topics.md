@@ -89,6 +89,9 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 	* examples include Augur and UMA, some mechanisms for reducing vulnerability to manipulation like a data verification mechanism - design to reflect reflect world market values - optimizing efficiency 
 	* Augur - a decentralized prediction market - participants stake this on various outcomes of real world events
 * Kleros goes beyond market-oriented data -> decentralized justice systems tend to present a generalized infrastructure that accommodates a broader spectrum of subject matter and tends to facilitate coordinated decisions over more nuanced questions
+* The infrastructure has to be secure and attack resistant without requiring central intervention
+	* ^ back to how do certain technologies privilege certain political modes?
+* 
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
