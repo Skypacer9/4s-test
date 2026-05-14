@@ -112,7 +112,9 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 
 3.3 Appropriately managing information
 
-* Managing the flow of information in a decentralized justice system 
+* Managing the flow of information in a decentralized justice system - it is challenging to handle private information on blockchain as enough information about each transaction must be known by miners and other nodes for them to validate the transaction
+* How to avoid voting records of arbitrators becoming public and t hreatening their privacy
+* Commit and reveal schemes allow for votes to remain hidden during a voting round to avoid influencing arbitrators who have not yet voted - these schems require that votes be revealed during a subsequent step to have the results calculated
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
