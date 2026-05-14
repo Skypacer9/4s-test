@@ -51,4 +51,6 @@ Carrot and stick approach is used - if the vote is unanimous, then all jurors re
 A key premise in decentralized justice is that jurors who vote consistently with the majority experience on average a financial gain
 Decentralized justice as a dispute resolution system possessing three fundamental characteristics
 a) DAO structure
-b) mechan
+b) mechanism design based on cryptoeconomics
+c) generating a perception of fairness 
+
