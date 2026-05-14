@@ -73,7 +73,10 @@ Evidence production, jury selection, other elements of the procedure are tamper 
 Users that behave honestly and ethically will on average be rewarded by the payoff system whereas users that behave dishonestly/unethically will be penalized economically
 	-> in this way, the cryptoeconomic based mechanism design of a decnetralized justice system ensures trustlessness - no agent is required to put faith in the honesty or reliability of any other agent in order for the system to work effectively
 
-* In order to be considered legitimate
+* In order to be considered legitimate, any court system must produce decisions that can be considered 'fair' by disputants and outside observers 
+^ here the review just directs the reader to more extensive reviews of 'fairness' if it is of interest
+	^ notes that Kleros is 'fair' in accordance with formal models of defining fairness such as Daniel Dimov's model of procedural fairness
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
+(what if fairness is not what )
