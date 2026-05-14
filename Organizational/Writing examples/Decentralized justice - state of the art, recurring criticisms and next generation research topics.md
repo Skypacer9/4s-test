@@ -116,6 +116,7 @@ Then the paper conducts a thorough review of the literature addressing the diffe
 * How to avoid voting records of arbitrators becoming public and t hreatening their privacy
 * Commit and reveal schemes allow for votes to remain hidden during a voting round to avoid influencing arbitrators who have not yet voted - these schemes require that votes be revealed during a subsequent step to have the results calculated
 * Question asked? What voting/incentive systems would be well adapted to the requirements of decentralized justice? how might one develop on recent research in peer prediction towards designing mechanisms that have incentive compatibility properties even when one can only take assumptions on participant behaviour that are realistic in t he setting of decentralized justice, such as by assuming limits on participant collusion rather than its absence - paralleling work in social choice theory, what further properties are relevant for voting aggregation mechanisms in decentralized justice and what tradeoffs one must make between potentially conflicting desirable properties
+* Zero knowledge proof protocols appropriate to better manage the flow of information in decentralized justice protocols - how to most efficiently obfuscate the link between how an arbitrator votes and rewards or penalties received so that arbit
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
