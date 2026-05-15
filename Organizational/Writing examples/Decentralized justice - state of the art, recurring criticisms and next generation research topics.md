@@ -152,7 +152,9 @@ A number of challenges arise regarding use cases, business models, and its futur
 	^another research idea -> opportunities for the use of decentralized justice systems as a fact finding or heuristic device to provide decision support to centralized tribunals, legal firms, support in mediation processes
 
 4.4 Interactions with other dispute resolution technologies:
-* *
+* acceleration in the interest of the use of technology in dispute resolution - new machine learning techniques combined with massive availability of data to train models promise great transformations in ODR systems
+* Possibility of using AI to build robo lawyers
+* Automation is 
 
 
 formal models of fairness?
