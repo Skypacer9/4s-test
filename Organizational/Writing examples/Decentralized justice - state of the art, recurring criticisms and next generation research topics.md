@@ -146,7 +146,12 @@ A number of challenges arise regarding use cases, business models, and its futur
 	* Or have decentralized justice systems partially merged into traditional dispute resolution mechanisms to bolster the effectiveness of the latter
 * A substantial number of legal disputes center around inherently subjective concepts and interpretations that do not have a reliable gauge for reference - several contracts use terms that are subjective by design - like 'reasonable' wear and tear, 'adequate' quality - laying down comprehensive rules to cover every potential circumstance is impossible - the flexibility also causes a significant number of disputes 
 * Decentralized justice systems serve as better reference points for interpretation - the judge/arbitrator would need to refer the interpretation of specific subjective terms to a decentralized jury in order to arrive at the most appropriate likely understanding of the term - harnessing the wisdom of the crowd - but these instruments are susceptible to manipulation by disputing parties with a vested interest
-* A decentralized jury of appropriate critical mass might be able to capture consuemr sentiments in a faster, cheaper more accurate manner -> determining a fair price or evaluating whether all steps taken by a party are reasonable
+* A decentralized jury of appropriate critical mass might be able to capture consumer sentiments in a faster, cheaper more accurate manner -> determining a fair price or evaluating whether all steps taken by a party are reasonable
+	* -> replacing surveys or other costly legal tools during the negotiation/pre dispute stage
+	* legal analytics seeks to draw insights from data in order to help lawyers make better informed decisions to build their legal strategies 
+	^another research idea -> opportunities for the use of decentralized justice systems as a fact finding or heuristic device to provide decision support to centralized tribunals, legal firms, support in mediation processes
+
+4.4
 
 
 formal models of fairness?
