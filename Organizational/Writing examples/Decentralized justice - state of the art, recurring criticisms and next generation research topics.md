@@ -151,7 +151,8 @@ A number of challenges arise regarding use cases, business models, and its futur
 	* legal analytics seeks to draw insights from data in order to help lawyers make better informed decisions to build their legal strategies 
 	^another research idea -> opportunities for the use of decentralized justice systems as a fact finding or heuristic device to provide decision support to centralized tribunals, legal firms, support in mediation processes
 
-4.4
+4.4 Interactions with other dispute resolution technologies:
+* *
 
 
 formal models of fairness?
