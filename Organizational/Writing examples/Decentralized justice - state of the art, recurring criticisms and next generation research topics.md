@@ -139,3 +139,4 @@ A number of challenges arise regarding use cases, business models, and its futur
 (what if fairness is not what any participants desire)
 (identity systems?)
 (what quantitative language can we use to make sense of the polycrisis? to integrate broad swathes of information at a high resolution?)
+(the building out of the ai safety field is a good example of how to build a integrated research/action agenda)
