@@ -154,7 +154,9 @@ A number of challenges arise regarding use cases, business models, and its futur
 4.4 Interactions with other dispute resolution technologies:
 * acceleration in the interest of the use of technology in dispute resolution - new machine learning techniques combined with massive availability of data to train models promise great transformations in ODR systems
 * Possibility of using AI to build robo lawyers
-* Automation is 
+* Automation is unlikely to resolve a wide number of cases - those where the ability to understand the context, intentionality and emotions of agents is important Whenever a party appeals a ruling made by an automated method, likely to trigger a new decision making round with humans involved to ensure diverse approaches to the problem -> automation might not be socially acceptable
+
+4.5. More research d
 
 
 formal models of fairness?
