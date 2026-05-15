@@ -139,6 +139,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 
 constitutionalism and blockchain
 (blockchain gov)
+https://blockchaingov.eu/event123/blockchain-constitutionalism-the-role-of-legitimacy-in-polycentric-systems/
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
