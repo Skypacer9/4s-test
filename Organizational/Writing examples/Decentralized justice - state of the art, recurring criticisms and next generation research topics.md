@@ -130,7 +130,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 	* wide range of applications including cryptoasset compliance, online identity, NFT certification
 	* Oracle use cases - disputed claim of a factual nature - like the number of COVID deaths in the US
 * It can be argued that all of the decentralized justice industry falls within the subjective oracle category as questions asked to jurors act as an oracle for that specific question
-* Categorizing use cases of decentralized justice - focusing on functionality - decentralized justice systems could be categorized in optimistic mechanisms (a curation type case where a claim is considered true after a period without being challenged), price discovery, assets custody, sybil resistance - decentralized justice can be categorized as a governance mechanism (supreme court as a service, content moderation), finance infrastructure (decentralized finance, insurance, real world asset curation), 
+* Categorizing use cases of decentralized justice - focusing on functionality - decentralized justice systems could be categorized in optimistic mechanisms (a curation type case where a claim is considered true after a period without being challenged), price discovery, assets custody, sybil resistance - decentralized justice can be categorized as a governance mechanism (supreme court as a service, content moderation), finance infrastructure (decentralized finance, insurance, real world asset curation), e commerce infrastructure (price discovery, escrow), decentralized implementation of bounties for remote workers
 
 
 
