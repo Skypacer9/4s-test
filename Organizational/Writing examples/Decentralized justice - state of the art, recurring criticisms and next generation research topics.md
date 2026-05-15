@@ -135,9 +135,10 @@ A number of challenges arise regarding use cases, business models, and its futur
 
 4.2 Industry structure and evolution -
 * Although the online dispute resolution industry has been around for decades, most initial platforms failed to achieve success - explained by the failure to introduce a significant change over traditional methods for alternative dispute resolution - most parties met over the internet instead of a hearing room
+* A core component of the digital revolution is the ability to enable new ways of organizing human effort based on collective intelligence and labor on demand
 
 
-
+(blockchain gov)
 
 (is this where economic sociology should come in tbh)
 (but do humans just run on this? do they need trust to be or stay motivated?)
