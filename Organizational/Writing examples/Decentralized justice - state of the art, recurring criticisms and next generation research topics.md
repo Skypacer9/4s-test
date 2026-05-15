@@ -134,7 +134,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 * ^ Another research direction suggested - taxonomizing the decentralized justice ecosystem
 
 4.2 Industry structure and evolution -
-* Although the online dispute resolution industry has been around for decades, most initial platforms failed to achieve success - explained by the failure to introduce a significant change over traditional methods for alternative dispute resolution
+* Although the online dispute resolution industry has been around for decades, most initial platforms failed to achieve success - explained by the failure to introduce a significant change over traditional methods for alternative dispute resolution - most parties met over the internet instead of a hearing room
 
 
 
