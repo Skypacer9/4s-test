@@ -141,6 +141,9 @@ A number of challenges arise regarding use cases, business models, and its futur
 * some kind of network effect - as more cases come into the system, the higher the incentive for jurors to join the network (profit by providing adjudication services) - and a higher amount and variety of jurors increases the quality, speed, cost of arbitration
 * being built on blockchain means that decentralized justice systems can operate globally through jurisdictional boundaries thus accommodating the global nature of many economic activities
 
+4.3 Inclusion in traditional dispute resolution systems
+* Com
+
 formal models of fairness?
 constitutionalism and blockchain
 (blockchain gov)
