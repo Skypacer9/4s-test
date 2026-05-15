@@ -156,7 +156,12 @@ A number of challenges arise regarding use cases, business models, and its futur
 * Possibility of using AI to build robo lawyers
 * Automation is unlikely to resolve a wide number of cases - those where the ability to understand the context, intentionality and emotions of agents is important Whenever a party appeals a ruling made by an automated method, likely to trigger a new decision making round with humans involved to ensure diverse approaches to the problem -> automation might not be socially acceptable
 
-4.5. More research d
+4.5. More research directions generated for market direction
+^ research needed to better understand the taxonomy of decentralized justice use cases, topology of decentralized justice networks, opportunities for application of decentralized justice as a component of broader dispute resolution processes
+^WInner take all dynamics or network fragmentations?
+
+5. Legal Challenges
+
 
 
 formal models of fairness?
