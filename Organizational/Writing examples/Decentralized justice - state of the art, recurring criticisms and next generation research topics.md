@@ -129,7 +129,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 * curation use cases - all those where the goal of the mechanism is to verify the compliance of some item with a number of critieria to be accepted into a list - token curated acceptance 
 	* wide range of applications including cryptoasset compliance, online identity, NFT certification
 	* Oracle use cases - disputed claim of a factual nature - like the number of COVID deaths in the US
-* It can be argued that all of the decentralized justice industry falls within the subjective oracle category as questions asked to jurors act as an orcale for that specific question
+* It can be argued that all of the decentralized justice industry falls within the subjective oracle category as questions asked to jurors act as an oracle for that specific question
 
 
 
