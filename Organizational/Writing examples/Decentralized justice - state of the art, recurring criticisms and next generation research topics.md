@@ -144,7 +144,8 @@ A number of challenges arise regarding use cases, business models, and its futur
 4.3 Inclusion in traditional dispute resolution systems
 * Commonly framed as a contrast to traditional systems - represented as a replacement for traditional systems. On a more moderated note, they may be discussed in the context of existing side by side with conventional centralized mechanisms each addressing a different subset of use cases 
 	* Or have decentralized justice systems partially merged into traditional dispute resolution mechanisms to bolster the effectiveness of the latter
-* A substantial number of legal disputes center around inherently subjective concepts and interpretations that do not have a reliable gauge for reference 
+* A substantial number of legal disputes center around inherently subjective concepts and interpretations that do not have a reliable gauge for reference - several contracts use terms that are subjective by design - like 'reasonable' wear and tear, 'adequate' quality - laying down comprehensive rules to cover every potential circumstance is impossible - the flexibility also causes a significant number of disputes 
+* Decentralized justice systems serve as better reference points for interpretation - the judge/arbitrator would need to refer the interpretation of specific subjective terms to a decentralized jury in order to arrive at the most appropriate likely understanding of the term 
 formal models of fairness?
 constitutionalism and blockchain
 (blockchain gov)
