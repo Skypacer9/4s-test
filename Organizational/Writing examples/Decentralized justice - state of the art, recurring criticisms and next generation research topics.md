@@ -138,7 +138,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 * A core component of the digital revolution is the ability to enable new ways of organizing human effort based on collective intelligence and labor on demand
 * Decentralized justice - combines crowdsourcing into dispute resolution with a  DAO architecture - enjoying an exponential improvement in resolution speed and cost while it enjoyed credible neutrality guarantees for earning the trust of parties
 	* ==incremental vs disruptive innovation
-* some kind of network effect - as more cases come into the system, the higher the incenti
+* some kind of network effect - as more cases come into the system, the higher the incentive for jurors to join the network (profit by providing adjudication services) - and a higher amount and variety of jurors increases the quality, speed, cost of arbitration
 
 formal models of fairness?
 constitutionalism and blockchain
