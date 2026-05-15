@@ -142,7 +142,8 @@ A number of challenges arise regarding use cases, business models, and its futur
 * being built on blockchain means that decentralized justice systems can operate globally through jurisdictional boundaries thus accommodating the global nature of many economic activities
 
 4.3 Inclusion in traditional dispute resolution systems
-* Com
+* Commonly framed as a contrast to traditional systems - represented as a replacement for traditional systems. On a more moderated note, they may be discussed in the context of existing side by side with conventional centralized mechanisms each addressing a different subset of use cases 
+	* Or have decentralized justice systems partially merged into traditional dispute resolution mechanisms to bolster the effectiveness of the latter
 
 formal models of fairness?
 constitutionalism and blockchain
