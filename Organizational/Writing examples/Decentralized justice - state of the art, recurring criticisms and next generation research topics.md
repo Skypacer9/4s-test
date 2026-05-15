@@ -124,8 +124,12 @@ A number of challenges arise regarding use cases, business models, and its futur
 
 4.1. Use case taxonomy
 * A lot of applications for decentralized justice including the field of intellectual property disputes, translation freelancing, production traceability, leasing contracts, online marketplaces, crowdfunded financing, online gaming, real world asset tokenization, decentralized finance compliance, social media moderation, insurance, DAO governance, prediction markets, metaverse and others
-* I
-
+* It has also been suggested as a way to protect basis property rights
+* Industry participants organized use cases into three main categories: escrow (a financial arrangement where a neutral third party holds and regulates payment of funds or assets on behalf of two other parties involved in a transaction - the ecrow agent releases the funds or assets only when all the terms of the agreement are met, curation, oracle - escrow use cases are typical in insurance claims, freelance work, bounty payments
+* curation use cases - all those where the goal of the mechanism is to verify the compliance of some item with a number of critieria to be accepted into a list - token curated acceptance 
+	* wide range of applications including cryptoasset compliance, online identity, NFT certification
+	* Oracle use cases - disputed claim of a factual nature - like the number of COVID deaths in the US
+* It can be argued that all of the decentralized justice industry falls within the subjective oracle category as questions asked to jurors act as an orcale for that specific question
 
 
 
