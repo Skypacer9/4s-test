@@ -133,6 +133,9 @@ A number of challenges arise regarding use cases, business models, and its futur
 * Categorizing use cases of decentralized justice - focusing on functionality - decentralized justice systems could be categorized in optimistic mechanisms (a curation type case where a claim is considered true after a period without being challenged), price discovery, assets custody, sybil resistance - decentralized justice can be categorized as a governance mechanism (supreme court as a service, content moderation), finance infrastructure (decentralized finance, insurance, real world asset curation), e commerce infrastructure (price discovery, escrow), decentralized implementation of bounties for remote workers
 * ^ Another research direction suggested - taxonomizing the decentralized justice ecosystem
 
+4.2 Industry structure and evolution -
+* Although the online dispute resolution industry has been around for decades, most initial platforms failed to achieve success - explained by the failure to introduce a significant change over traditional methods for alternative dispute resolution
+
 
 
 
