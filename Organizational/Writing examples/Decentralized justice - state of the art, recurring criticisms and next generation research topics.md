@@ -8,7 +8,8 @@ The paper provides a review of the history of decentralized justice, addresses a
 
 ==^ so this paper only does a part of what our 4s abstract proposes lol (it's more a review paper whereas our paper suggests it will undertake 1. novel case studies 2.even start creating design principles)==
 
-MY COMMENTS: There are a lot of research threads brought up here spanning many components of decentralized justice. Tensions and possible integration with existing sovereign-based legal systems are 
+MY COMMENTS: There are a lot of research threads brought up here spanning many components of decentralized justice. Tensions and possible integration with existing sovereign-based legal systems are also explored. I thought it was readable. 4-6 different authors divided their work up between them, with each focusing on their area of specialty. More technical proofs are only referred to, most concepts are explained via diagramming or analogy/conceptual logic instead of via mathematical proofs.
+
 
 Intro:
 -> brief contextualisation of economic circumstances and how that's been changed by economics
