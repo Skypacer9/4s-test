@@ -178,7 +178,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 
 * The Convention on the Recognition and Enforcement of Foreign Arbitral Awards of 10 June 1958 (the "New York Convention") - is still a source of controversy and debate - key words such as 'may', 'shall', 'must' still cause arguments in translation
 * Some commentators have commented on the applicability to decentralized justice but there is no clarity on whether decentralized courts comply with the Convention - one commonly cited problem relating to the recognition of decentralized arbitration awards is the New York Convention applies to awards "made in the territory of a State other than the State where the recognition and enforcement of such awards are sought"
-* 
+	* the awards are supposed to be made within the territory of a single state, but decentralized mechanisms are by definition dispersed around the world with anonymous parties and jurors all operating in indeterminate locations 
 
 formal models of fairness?
 constitutionalism and blockchain
