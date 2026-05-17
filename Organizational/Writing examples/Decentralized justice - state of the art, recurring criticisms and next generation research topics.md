@@ -204,7 +204,9 @@ A number of challenges arise regarding use cases, business models, and its futur
 -> challenges from social or moral norms- ability of decentralized justice systems to be perceived as fair by users
 6.1. A hyper financialization of dispute resolution 
 -> lots of scholarship challenging the use of 'economic logics' in the organization of public life
-institutions that focus attention on types of behaviour that can be captured by such metrics, institutions contribute to the erosion of pep
+institutions that focus attention on types of behaviour that can be captured by such metrics, institutions contribute to the erosion of people to express non-economic aspects of themselves
+	such concerns are in the spirit of "value-sensitive design" which asserts technology designers focus too heavily on functional requirements and should provide greater emphasis on the humanity of users of technology
+* Criticisms of economic logic are especially spirited in scholarship discussing blockchain systems, not least considering their history of libertarian ideological motivations and the fact that a lot of advantages offered by blockchains are economic in that they off
 
 
 formal models of fairness?
