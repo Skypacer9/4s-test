@@ -176,7 +176,9 @@ A number of challenges arise regarding use cases, business models, and its futur
 
 5.2 The interplay of decentralized justice with international award enforcement regimes 
 
-* The Convention on the Recognition and Enforcement of Foreign Arbitral Awards of 10 June 1958 (the "New York Convention") - is still a source of controversy and debate - key words such as 'may', 'shall', 'must' still cause ar
+* The Convention on the Recognition and Enforcement of Foreign Arbitral Awards of 10 June 1958 (the "New York Convention") - is still a source of controversy and debate - key words such as 'may', 'shall', 'must' still cause arguments in translation
+* Some commentators have commented on the applicability to decentralized justice but there is no clarity on whether decentralized courts comply with the Convention - one commonly cited problem relating to the recognition of decentralized arbitration awards is the New York Convention applies to awards "made in the territory of a State other than the State where the recognition and enforcement of such awards are sought"
+* 
 
 formal models of fairness?
 constitutionalism and blockchain
