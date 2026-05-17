@@ -190,6 +190,8 @@ A number of challenges arise regarding use cases, business models, and its futur
 	* ^ guess states are sensitive to issues affecting their own survival lol
 * The most obvious potential public policy hurdles of a decentralized arbitration mechanism will emerge from the basic design of the protocol which contravenes many of the traditional expectations legal systems impose upon a private dispute resolution procedure 
 * Schelling point concept might conflict with standard notions of neutrality?
+* National courts retain the authority to look into the conformity of arbitration awards with their public policy and mandatory rules of law even when the disputing parties mutually accept the binding nature of the award 
+	* "second look doctrine'"
 
 formal models of fairness?
 constitutionalism and blockchain
