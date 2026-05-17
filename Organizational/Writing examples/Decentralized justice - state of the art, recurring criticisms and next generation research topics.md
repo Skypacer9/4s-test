@@ -197,6 +197,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 * Mainstream adoption of decentralized dispute resolution protocols may well depend on legal recognition in certain cases, this may not be necessary in every instance
 * ^ yet another research direction generated - defining a "legal risk hierarchy" that would differentiate use cases that can easily adopt decentralized justice systems, require legal adjustments, and leaving things to state courts
 	* ^ some speculation - with maturity, we might see the emergence of norms and practices unique to said mechanisms, also the value of precedents and preambles, deciding between the letter and the spirit of a norm
+	* ^ more threads of research proposed: transnational structure of regulation of decentralized justice systems, when rulings can be binding upon sovereign courts, challenges posed by privacy and data concerns, challenging the conceptions of procedural fairness, lex cryptographia
 
 
 formal models of fairness?
