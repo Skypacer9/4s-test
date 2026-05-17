@@ -196,7 +196,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 * To ensure seamless adoption, providing a layer of legal protection that takes the form of a "binding" effect - ==where  courts refuse to reopen a case that has been validly disposed of by a valid ADR mechanism
 * Mainstream adoption of decentralized dispute resolution protocols may well depend on legal recognition in certain cases, this may not be necessary in every instance
 * ^ yet another research direction generated - defining a "legal risk hierarchy" that would differentiate use cases that can easily adopt decentralized justice systems, require legal adjustments, and leaving things to state courts
-	* ^ some speculation - with maturity, we might see the emergence of norms and practices unique to said mechanisms
+	* ^ some speculation - with maturity, we might see the emergence of norms and practices unique to said mechanisms, also the value of precedents and preambles, deciding between the letter and the spirit of a norm
 
 
 formal models of fairness?
