@@ -163,6 +163,8 @@ A number of challenges arise regarding use cases, business models, and its futur
 5. Legal Challenges
 * Tech regulation is a hotbed of debate with several interests at play - from the desire to maximize innovation to ensuring the protection of consumers and public goods - law and technology can influence each other, both regulate the behaviour of individuals
 * Decentralized justice systems are a source of controversy due to their lack of compliance with prevailing laws - commentators have expressed concerns about the design mechanisms of decentralized arbitration, including about the lack of centralized coordination over crowdsourced jurors potentially resulting in information cascades by incentivizing aligmment with the majority, lack of party autonomy over the dispute resolution procedure, the perceived supremacy of 'common sense' over 'law' 
+* Decentralized justice systems are a form of alternative dispute resolution (ADR) - facilitating the resolution of disputes outside of the formal court system - the closest traditional ADR analogue for decentralized justice systems is arbitration - lacks a unified approach to regulation of myriad soft laws and guidance documents
+	* it seems to contradict the main tenets of due process and impartiality on which arbitration has traditionally founded its claims to render fair decisions -also since jurors ar
 
 
 formal models of fairness?
