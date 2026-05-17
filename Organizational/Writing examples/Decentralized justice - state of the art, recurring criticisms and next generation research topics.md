@@ -222,6 +222,10 @@ institutions that focus attention on types of behaviour that can be captured by 
 6.2 Decentralized justice and international business ethics
 * Discovering what norms are applicable in the context of in ternational business where clashes of standards are common across cultures - standards in host vs home country - different frameworks to respond to this including utilitarianism, Kantian ethics, Aristotlelian virtue ethics, a contrarianism approach known as Integrative Social Contracts Theory suggests a normative heuristic to conduct a norm discovery process - discovering hypernorms (valid across mnay cultures_ and authentic norms (valid within the boundaries of a culture)
 ^ do payoffs always have to just be in currency/material?
+Main summary of research directions:
+^ main moral impediments for adoption of decentralized justic systems, considering that t he mechanism works quite differently to traditional online dispute resolution, friction with traditional udnerstandings and cultural background, legal background, other elements from participants, improvements to design
+
+
 
 formal models of fairness?
 constitutionalism and blockchain
