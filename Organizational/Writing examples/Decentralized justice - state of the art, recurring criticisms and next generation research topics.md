@@ -214,6 +214,8 @@ institutions that focus attention on types of behaviour that can be captured by 
 	* Buterin agrees that non-economic layers should be integrated into blockchain systems - financialization is a result of the limited tools they possess to prevent collusion
 		* even  forking relies on social coordination and economic coordination - Soulbound Tokens can perhaps be used to encourage non-financial social structure in decentralized communities?
 * (what are the problems with financialization of relationships - does insurance show they are not always cheapened and that people think about different kinds of moneys in different ways?)
+* jurors  can be considered another category of the disputing parties themselves
+* 'good faith disputes' where neither disputing party is 'at fault', assessing a fact situation or occurrence of unforeseen events that radically alter the nature of the contractual relationship
 
 
 formal models of fairness?
