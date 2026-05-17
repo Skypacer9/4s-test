@@ -199,6 +199,8 @@ A number of challenges arise regarding use cases, business models, and its futur
 	* ^ some speculation - with maturity, we might see the emergence of norms and practices unique to said mechanisms, also the value of precedents and preambles, deciding between the letter and the spirit of a norm
 	* ^ more threads of research proposed: transnational structure of regulation of decentralized justice systems, when rulings can be binding upon sovereign courts, challenges posed by privacy and data concerns, challenging the conceptions of procedural fairness, lex cryptographia
 
+6. Moral challenges
+
 
 formal models of fairness?
 constitutionalism and blockchain
