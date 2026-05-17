@@ -168,6 +168,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 	* Regulation of blockchain systems are difficult - hierarchies of control and responsibility can't easily be identified - features of decentralized arbitration protocols such as the anonymity of parties, lack of state recognition of awards, the indeterminacy of jurisdiction may raise the difficulty of legality and accountability
 	* users of decentralized dispute resolution mechanisms would not need state court recognition of decentralized arbitration awards due to the self enforcing nature of smart contracts - this claim could apply in some situations for some categories of users, decentralized arbitration could be viewed as a dispute resolution solution that may settle disputes involving both on and off chain relationships
 * ^ Another direction for future research about the regulation of decentralized arbitration mechanisms can be informed by contemporary cases where said mechanisms have interacted with national courts
+	* this has happened in Mexico - disputing parties appointed an arbitrator but expressly agreed that the arbitrator would refer resolution of the dispute together with evidence and arguments to the Kleros Protocol - following which the arbitrator would formalize the verdict into a formal arbitral award. 
 
 
 formal models of fairness?
