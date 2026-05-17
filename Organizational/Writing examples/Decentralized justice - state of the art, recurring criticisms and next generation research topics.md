@@ -216,6 +216,11 @@ institutions that focus attention on types of behaviour that can be captured by 
 * (what are the problems with financialization of relationships - does insurance show they are not always cheapened and that people think about different kinds of moneys in different ways?)
 * jurors  can be considered another category of the disputing parties themselves
 * 'good faith disputes' where neither disputing party is 'at fault', assessing a fact situation or occurrence of unforeseen events that radically alter the nature of the contractual relationship
+* Research looking into how to design  decentralized mechanisms to deal with potential good faith disputes may be critical to ensure proper conflict resolution
+* jury duty can also be to deliver broader benefits to society, educating citizens on current affairs, instilling good habits, empowering citizens to exercise sovereignty in a democracy
+
+6.2 Decentralized justice and international business ethics
+* Discovering what norms are applicable in the context of in ternational business where clashes of standards are common across cultures
 
 
 formal models of fairness?
