@@ -189,6 +189,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 * Courts may reject the legitimacy of an arbitration award if it violates principles of fair procedure, such as arbitrator impartiality, the right to a fair hearing, adherence to mutually agreed procedures and remedies. The public policy defense can be invoked when an award impacts non-contracting third parties or carries broader societal implications, such as disrupting antitrust regulation. Enforcement may be denied if the subject matter infringes across the state's jurisdiction, such as disputes entangled with criminal law, or if it compromises public order, morality, national security, core constitutional values
 	* ^ guess states are sensitive to issues affecting their own survival lol
 * The most obvious potential public policy hurdles of a decentralized arbitration mechanism will emerge from the basic design of the protocol which contravenes many of the traditional expectations legal systems impose upon a private dispute resolution procedure 
+* Schelling point concept might conflict with standard notions of neutrality?
 
 formal models of fairness?
 constitutionalism and blockchain
