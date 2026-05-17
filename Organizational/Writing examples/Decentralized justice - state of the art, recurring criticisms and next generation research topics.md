@@ -204,7 +204,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 -> challenges from social or moral norms- ability of decentralized justice systems to be perceived as fair by users
 6.1. A hyper financialization of dispute resolution 
 -> lots of scholarship challenging the use of 'economic logics' in the organization of public life
-institutions th
+institutions that focus attention on types of behaviour that can be captured by such metrics, institutions contribute to the erosion of pep
 
 
 formal models of fairness?
