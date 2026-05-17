@@ -185,6 +185,8 @@ A number of challenges arise regarding use cases, business models, and its futur
 
 5.3 Decentralized justice in the context of public policy issues
 
+
+
 formal models of fairness?
 constitutionalism and blockchain
 (blockchain gov)
