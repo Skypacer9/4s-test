@@ -186,6 +186,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 5.3 Decentralized justice in the context of public policy issues
 
 * Courts may reject the legitimacy of an arbitration award if it violates principles of fair procedure such as arbitrator impartiality, the right to a fair hearing, or the adherence to mutually agreed procedures and remedies
+* The public policy defense can be invoked when an award impacts non-contracting third parties or carries broader societal implications, such as disrupting a
 
 formal models of fairness?
 constitutionalism and blockchain
