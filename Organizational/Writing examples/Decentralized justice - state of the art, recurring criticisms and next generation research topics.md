@@ -206,7 +206,9 @@ A number of challenges arise regarding use cases, business models, and its futur
 -> lots of scholarship challenging the use of 'economic logics' in the organization of public life
 institutions that focus attention on types of behaviour that can be captured by such metrics, institutions contribute to the erosion of people to express non-economic aspects of themselves
 	such concerns are in the spirit of "value-sensitive design" which asserts technology designers focus too heavily on functional requirements and should provide greater emphasis on the humanity of users of technology
-* Criticisms of economic logic are especially spirited in scholarship discussing blockchain systems, not least considering their history of libertarian ideological motivations and the fact that a lot of advantages offered by blockchains are economic in that they off
+* Criticisms of economic logic are especially spirited in scholarship discussing blockchain systems, not least considering their history of libertarian ideological motivations and the fact that a lot of advantages offered by blockchains are economic in that they offer more flexible deployment of mechanism design
+	* (me: okay, so how was the pre-blockchain world designed? is it also about lack of control over the design of these massive institutions?)
+* Criticisms of financial incentives - jurors are seen to be performing a social duty
 
 
 formal models of fairness?
