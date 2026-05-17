@@ -169,7 +169,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 	* users of decentralized dispute resolution mechanisms would not need state court recognition of decentralized arbitration awards due to the self enforcing nature of smart contracts - this claim could apply in some situations for some categories of users, decentralized arbitration could be viewed as a dispute resolution solution that may settle disputes involving both on and off chain relationships
 * ^ Another direction for future research about the regulation of decentralized arbitration mechanisms can be informed by contemporary cases where said mechanisms have interacted with national courts
 	* this has happened in Mexico - disputing parties appointed an arbitrator but expressly agreed that the arbitrator would refer resolution of the dispute together with evidence and arguments to the Kleros Protocol - following which the arbitrator would formalize the verdict into a formal arbitral award -> upon resolution of the dispute in accordane with this procedure, the winning party filed a motion to enforce the award in a Mexican civil court -and the award-debtor was  given an opportunity to resist enforcement.
-		* But would 
+		* But it's hard to predict whether the court would pass the decision had either of the par ties challenged the nature of the Kleros decision 
 
 
 formal models of fairness?
