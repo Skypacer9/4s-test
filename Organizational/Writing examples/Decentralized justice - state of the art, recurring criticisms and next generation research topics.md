@@ -171,7 +171,12 @@ A number of challenges arise regarding use cases, business models, and its futur
 	* this has happened in Mexico - disputing parties appointed an arbitrator but expressly agreed that the arbitrator would refer resolution of the dispute together with evidence and arguments to the Kleros Protocol - following which the arbitrator would formalize the verdict into a formal arbitral award -> upon resolution of the dispute in accordane with this procedure, the winning party filed a motion to enforce the award in a Mexican civil court -and the award-debtor was  given an opportunity to resist enforcement.
 		* But it's hard to predict whether the court would pass the decision had either of the par ties challenged the nature of the Kleros decision 
 	* In 2021 the UK Jurisdiction Taskforce of LawtechUK introduced the Digital Dispute Resolution Rules designed to enable faster and more cost effective resolutions to legal disputes relating to novel digital technology - these rules also consider innovative design systems in dispute resolution such as resolution through peer to peer voting systems, anonymous jurors, and the contemplation of automatic dispute resolution processes that might use smart contracts/AI as legally binding
-		* no known tools explicitly diq
+		* no known tools explicitly disqualify decentralized justice systems as an acceptable tool for dispute resolution
+		* international law might pose unique questions
+
+5.2 The interplay of decentralized justice with international award enforcement regimes 
+
+* The Convention on the Recognition and Enforcement of Foreign Arbitral Awards of 10 June 1958 (the "New York Convention") - is still a source of controversy and debate - key words such as 'may', 'shall', 'must' still cause ar
 
 formal models of fairness?
 constitutionalism and blockchain
