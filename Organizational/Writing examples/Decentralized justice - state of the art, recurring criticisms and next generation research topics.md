@@ -192,6 +192,9 @@ A number of challenges arise regarding use cases, business models, and its futur
 * Schelling point concept might conflict with standard notions of neutrality?
 * National courts retain the authority to look into the conformity of arbitration awards with their public policy and mandatory rules of law even when the disputing parties mutually accept the binding nature of the award 
 	* "second look doctrine'"
+	* ==Avenues of reconciliation or reform to resolve the tension between traditional dominion of courts to solve the tension between the traditional dominion of courts to ensure  compliance with principles of public policy and the mechanics of decentralized protocols
+* To ensure seamless adoption, providing a layer of legal protection that takes the form of a "binding" effect - where  courts refuse to reop
+
 
 formal models of fairness?
 constitutionalism and blockchain
