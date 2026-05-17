@@ -162,6 +162,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 
 5. Legal Challenges
 * Tech regulation is a hotbed of debate with several interests at play - from the desire to maximize innovation to ensuring the protection of consumers and public goods - law and technology can influence each other, both regulate the behaviour of individuals
+* Decentralized justice systems are a source of controversy due to their lack of compliance with prevailing laws
 
 
 formal models of fairness?
