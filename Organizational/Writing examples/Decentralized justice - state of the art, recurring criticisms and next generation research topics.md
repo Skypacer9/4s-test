@@ -224,8 +224,9 @@ institutions that focus attention on types of behaviour that can be captured by 
 ^ do payoffs always have to just be in currency/material?
 Main summary of research directions:
 ^ main moral impediments for adoption of decentralized justic systems, considering that t he mechanism works quite differently to traditional online dispute resolution, friction with traditional udnerstandings and cultural background, legal background, other elements from participants, improvements to design
-
-
+* Ethan Katsh, the father of "Online Dispute Resolution", observed: The power of technology to resolve disputes is exceeded by the power of technology to generate disputes" - this seems to be even more true 20 years after it was first uttered
+* Decentralized justice systems have attracted interest from beyond the ivory tower - within international organizations such as the WIPO, UNCITRAL
+* decentralized justice can provide justice to the unjusticed
 
 formal models of fairness?
 constitutionalism and blockchain
