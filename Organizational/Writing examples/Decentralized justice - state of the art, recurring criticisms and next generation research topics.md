@@ -209,6 +209,7 @@ institutions that focus attention on types of behaviour that can be captured by 
 * Criticisms of economic logic are especially spirited in scholarship discussing blockchain systems, not least considering their history of libertarian ideological motivations and the fact that a lot of advantages offered by blockchains are economic in that they offer more flexible deployment of mechanism design
 	* (me: okay, so how was the pre-blockchain world designed? is it also about lack of control over the design of these massive institutions?)
 * Criticisms of financial incentives - jurors are seen to be performing a social duty
+* Nathan Schneider - homo economicus motivations might interfere with the formation of democratic practices - lack of widely useable blockchain -based systems that can verify the identity and integrity of human users
 
 
 formal models of fairness?
