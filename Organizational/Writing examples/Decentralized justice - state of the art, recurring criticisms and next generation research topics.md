@@ -220,7 +220,7 @@ institutions that focus attention on types of behaviour that can be captured by 
 * jury duty can also be to deliver broader benefits to society, educating citizens on current affairs, instilling good habits, empowering citizens to exercise sovereignty in a democracy
 
 6.2 Decentralized justice and international business ethics
-* Discovering what norms are applicable in the context of in ternational business where clashes of standards are common across cultures
+* Discovering what norms are applicable in the context of in ternational business where clashes of standards are common across cultures - standards in host vs home country - different frameworks to respond to this including utilitarianism, Kantian ethics, Aristotlelian virtue ethics, a contrarianism approach known as Integrative Social Contracts Theory suggests a normative heuristic to conduct a norm discovery process
 
 
 formal models of fairness?
