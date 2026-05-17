@@ -201,7 +201,10 @@ A number of challenges arise regarding use cases, business models, and its futur
 
 6. Moral challenges
 
--> challenges from social or moral norms- ability of 
+-> challenges from social or moral norms- ability of decentralized justice systems to be perceived as fair by users
+6.1. A hyper financialization of dispute resolution 
+-> lots of scholarship challenging the use of 'economic logics' in the organization of public life
+institutions th
 
 
 formal models of fairness?
