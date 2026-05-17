@@ -161,7 +161,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 ^WInner take all dynamics or network fragmentations?
 
 5. Legal Challenges
-
+* Tech regulation is a hotbed of debate with several interests at play - from the desire to maximize innovation to ensuring the protection of consumers and public goods - law and technology can influence each other, both regulate the behaviour of individuals
 
 
 formal models of fairness?
