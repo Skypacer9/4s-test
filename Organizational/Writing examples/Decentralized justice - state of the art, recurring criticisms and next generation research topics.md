@@ -210,7 +210,9 @@ institutions that focus attention on types of behaviour that can be captured by 
 	* (me: okay, so how was the pre-blockchain world designed? is it also about lack of control over the design of these massive institutions?)
 * Criticisms of financial incentives - jurors are seen to be performing a social duty
 * Nathan Schneider - homo economicus motivations might interfere with the formation of democratic practices - lack of widely useable blockchain -based systems that can verify the identity and integrity of human users
-	* "The Kleros judiciary, the board-like Graph Council, the constitutionalism of 1Hive, the protocol politicians - they are not the same as their old-world counterparts, but their reappearance also suggests a growing recognition of the need for po"
+	* "The Kleros judiciary, the board-like Graph Council, the constitutionalism of 1Hive, the protocol politicians - they are not the same as their old-world counterparts, but their reappearance also suggests a growing recognition of the need for political institutions in some form"
+	* Buterin agrees that non-economic layers should be integrated into blockchain systems - financialization is a result of the limited tools they possess to prevent collusion
+		* even  forking relies on social coordination and economic coordination - Soulbound Tokens can perhaps be used to encourage non-financial social structure in decentralized communities?
 
 
 formal models of fairness?
