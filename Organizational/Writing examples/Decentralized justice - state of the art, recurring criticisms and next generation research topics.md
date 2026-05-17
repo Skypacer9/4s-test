@@ -166,6 +166,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 * Decentralized justice systems are a form of alternative dispute resolution (ADR) - facilitating the resolution of disputes outside of the formal court system - the closest traditional ADR analogue for decentralized justice systems is arbitration - lacks a unified approach to regulation of myriad soft laws and guidance documents
 	* it seems to contradict the main tenets of due process and impartiality on which arbitration has traditionally founded its claims to render fair decisions -also since jurors are anonymous can't verify they don't have a vested interest in the outcome of the case they are adjudicating 
 	* Regulation of blockchain systems are difficult - hierarchies of control and responsibility can't easily be identified - features of decentralized arbitration protocols such as the anonymity of parties, lack of state recognition of awards, the indeterminacy of jurisdiction may raise the difficulty of legality and accountability
+	* users of decentralized dispute resolution mechanisms would not need state court recognition of decentralized arbitration awards due to the self enforcing nature of smart contracts
 
 
 formal models of fairness?
