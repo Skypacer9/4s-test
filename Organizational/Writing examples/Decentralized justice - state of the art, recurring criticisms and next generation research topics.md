@@ -186,6 +186,7 @@ A number of challenges arise regarding use cases, business models, and its futur
 5.3 Decentralized justice in the context of public policy issues
 
 * Public policy is a nebulous concept - reflects fundamental and sacrosanct economic, legal, moral, political, religious, social standards of every State that have to be maintained at any cost
+* Courts may reject the legitimacy of an arbitration award if it violates principles of fair procedure, such as arbitrator impartiality, the right to a fair hearing 
 
 formal models of fairness?
 constitutionalism and blockchain
