@@ -183,6 +183,8 @@ A number of challenges arise regarding use cases, business models, and its futur
 	* the  council of the European Union issued a series of conclusions that emphasized the 'use of digital technologies' improving access to out of court/tribunal and alternative methods to dispute resolutino while respecting the right toe effective judicial protection in each individual case and right to fair trial
 	* WIth the increased adoption of decentralized justice systems, there might emerge a trasnational body of norms in the form of dedicated rules, soft law documents, treaties that serve a similar function to New York Convention
 
+5.3 Decentralized justice in the context of public policy issues
+
 formal models of fairness?
 constitutionalism and blockchain
 (blockchain gov)
