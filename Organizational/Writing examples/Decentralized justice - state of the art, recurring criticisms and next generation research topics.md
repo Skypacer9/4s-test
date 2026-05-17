@@ -213,6 +213,7 @@ institutions that focus attention on types of behaviour that can be captured by 
 	* "The Kleros judiciary, the board-like Graph Council, the constitutionalism of 1Hive, the protocol politicians - they are not the same as their old-world counterparts, but their reappearance also suggests a growing recognition of the need for political institutions in some form"
 	* Buterin agrees that non-economic layers should be integrated into blockchain systems - financialization is a result of the limited tools they possess to prevent collusion
 		* even  forking relies on social coordination and economic coordination - Soulbound Tokens can perhaps be used to encourage non-financial social structure in decentralized communities?
+* (what are the problems with financialization of relationships - does insurance show they are not always cheapened and that people think about different kinds of moneys in different ways?)
 
 
 formal models of fairness?
