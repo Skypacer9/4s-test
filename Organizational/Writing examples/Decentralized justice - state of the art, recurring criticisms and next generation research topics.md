@@ -201,6 +201,8 @@ A number of challenges arise regarding use cases, business models, and its futur
 
 6. Moral challenges
 
+-> challenges from social or moral norms- ability of 
+
 
 formal models of fairness?
 constitutionalism and blockchain
